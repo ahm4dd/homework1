@@ -4,4 +4,5 @@ UML Diagram for the Employee class:
 
 
 
-![image](https://github.com/user-attachments/assets/c7ece755-7d8b-40ff-a338-46e4da127751)
+![image](https://github.com/user-attachments/assets/637d6989-6c7d-49c8-87c1-2907fe3d2b08)
+
